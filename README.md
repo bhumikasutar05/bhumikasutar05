@@ -4,9 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumikasutar05&label=Profile%20views&color=0e75b6&style=flat" alt="bhumikasutar05" /> </p>
 
-- 🔭 I’m currently working on **Weather Application: Using API's**
-
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **ReactJS**
+- - 🌱 And also learning **Advanced Java**
 
 - 💬 Ask me about **Web development and java.**
 
